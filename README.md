@@ -1,4 +1,5 @@
 # curso-dev
+
 A repository to folow the topics of curso.dev
 
 # Setting up the project
