@@ -1,7 +1,7 @@
 # curso-dev
 
 A repository to folow the topics of curso.dev
-
+The course is using prettier@2.8.8, so the file `.prettierignore` was added.
 # Setting up the project
 
 ```
